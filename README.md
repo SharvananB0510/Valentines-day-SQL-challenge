@@ -25,13 +25,19 @@ To tackle the challenge, I worked with the following tables:
 
 ![image](https://github.com/SharvananB0510/Valentines-day-SQL-challenge/assets/69303949/0e2a698e-9ef1-4102-bbcb-04b060c0b4e0)
 
-## Concepts covered :
+## Concepts covered
 
 ✅ Aggregated Functions: SUM, COUNT, AVERAGE
+
 ✅ Filtering Rows: WHERE
+
 ✅ Combining Tables: JOINS
+
 ✅ Grouping Results: GROUP BY
+
 ✅ Sorting Results: ORDER BY
+
 ✅ Sub Query
+
 ✅ Rank Functions
 

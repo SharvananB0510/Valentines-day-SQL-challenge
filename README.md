@@ -37,7 +37,7 @@ To tackle the challenge, I worked with the following tables:
 
 ✅ Sorting Results: ORDER BY
 
-✅ Sub Query
+✅ Subqueries
 
-✅ Rank Functions
+✅ Window Functions
 
